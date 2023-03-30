@@ -22,6 +22,6 @@ Na seção "Contato", é possível encontrar as informações de contato da empr
 ## Tecnologias
 O site foi desenvolvido utilizando as seguintes tecnologias:
 
-HTML
-CSS
-JavaScript
+- HTML
+- CSS
+- JavaScript
