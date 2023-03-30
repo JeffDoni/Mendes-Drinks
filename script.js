@@ -32,6 +32,6 @@ document.addEventListener("DOMContentLoaded", function () {
 
 setInterval(function() {
   plusSlides(1);
-}, 2500);
+}, 5000);
 
 
