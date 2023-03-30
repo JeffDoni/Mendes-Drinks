@@ -6,7 +6,7 @@ function plusSlides(n) {
 }
 
 function showSlides(n) {
-  const slides = document.getElementsByTagName("img");
+const slides = document.querySelectorAll(".gallery img");
 
   if (n > slides.length) {
     slideIndex = 1;
